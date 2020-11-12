@@ -127,6 +127,10 @@ left: 1px;
     .body{
         font-size: .5vh;
     }
+        .tab{
+        display: flex;
+        flex-direction: row;
+    }
  .imp{
      width:400%;
      height:100%;
